@@ -1,34 +1,34 @@
-'+10 to +15: Moderately fresh. Good balance of fitness and recovery.': '+10 से +15: मध्यम रूप से तरोताजा। फिटनेस और रिकवरी का अच्छा संतुलन।'
-'+15 to +25: Peak-fresh, race-ready. Ideal taper sweet spot': '+15 से +25: एकदम ताज़ा, रेस के लिए तैयार। आदर्श टेपर स्वीट स्पॉट।'
-'-10 to 0: Accumulated fatigue. Recovery in progress. Suitable for light/technical training.': '-10 से 0: Accumulated fatigue. Recovery in progress. Suitable for light/technical training.'
-'0 to +10: Slightly fresh. Transitional; brief is best': '0 to +10: Slightly fresh. Transitional; brief is best'
-'0.8-1.3: Safe training zone': '0.8-1.3: Safe training zone'
-'42-day fitness trend': '42-day fitness trend'
-'7-day fatigue level': '7-day fatigue level'
-'< 0.8: Potential detraining': '< 0.8: Potential detraining'
-'< 1.5: Good variety in training': '< 1.5: Good variety in training'
-'< –30: Over-fatigued. Risk of injury; require extra recovery': '< –30: Over-fatigued. Risk of injury; require extra recovery'
-'> 1.3: Increased injury risk': '> 1.3: Increased injury risk'
-'> 2.0: High monotony, increased risk': '> 2.0: High monotony, increased risk'
-'>+25: Possible detraining': '>+25: Possible detraining'
-'A:C Ratio': 'A:C Ratio'
-'ATL (Fatigue)': 'ATL (Fatigue)'
-'Active days': 'Active days'
-Activities: Activities
-Activity: Activity
-'Activity count': 'Activity count'
-'Activity heatmap': 'Activity heatmap'
-'Activity intensity': 'Activity intensity'
-'Activity locations': 'Activity locations'
-'Activity start times': 'Activity start times'
-'Acute Training Load (Fatigue) - 7-day exponentially weighted average of your daily training load. Represents short-term fatigue.': 'Acute Training Load (Fatigue) - 7-day exponentially weighted average of your daily training load. Represents short-term fatigue.'
-'Acute:Chronic Ratio - Ratio of ATL to CTL. Indicates injury risk.': 'Acute:Chronic Ratio - Ratio of ATL to CTL. Indicates injury risk.'
-'Adaptive & Inclusive Sports': 'Adaptive & Inclusive Sports'
-Advanced: Advanced
-Afternoon: Afternoon
-All: All
-'All time': 'All time'
-'Alpine Ski': 'Alpine Ski'
+'+10 to +15: Moderately fresh. Good balance of fitness and recovery.': '+10 से +15: मध्यम रूप से तरोताज़ा। फिटनेस और रिकवरी का अच्छा संतुलन।'
+'+15 to +25: Peak-fresh, race-ready. Ideal taper sweet spot': '+15 से +25: एकदम तरोताज़ा, रेस के लिए तैयार। आदर्श टेपर स्वीट स्पॉट।'
+'-10 to 0: Accumulated fatigue. Recovery in progress. Suitable for light/technical training.': '-10 से 0: संचित थकान। रिकवरी चल रही है। हल्की/टेक्निकल ट्रेनिंग के लिए उपयुक्त।'
+'0 to +10: Slightly fresh. Transitional; brief is best': '0 से +10: थोड़ा तरोताज़ा। परिवर्तनशील; संक्षिप्त सबसे अच्छा है।'
+'0.8-1.3: Safe training zone': '0.8-1.3: सुरक्षित प्रशिक्षण ज़ोन'
+'42-day fitness trend': '42-दिवसीय फिटनेस ट्रेंड'
+'7-day fatigue level': '7-दिवसीय थकान का स्तर'
+'< 0.8: Potential detraining': '< 0.8: संभावित डिट्रेनिंग'
+'< 1.5: Good variety in training': '< 1.5: प्रशिक्षण में अच्छी विविधता'
+'< –30: Over-fatigued. Risk of injury; require extra recovery': '< –30: अत्यधिक थकावट। आघात का खतरा; अतिरिक्त रिकवरी की आवश्यकता'
+'> 1.3: Increased injury risk': '> 1.3: आघात लगने का बढ़ा हुआ जोखिम'
+'> 2.0: High monotony, increased risk': '> 2.0: बहुत ज़्यादा एकरसता, बढ़ा हुआ जोखिम'
+'>+25: Possible detraining': '>+25: संभावित डीट्रेनिंग'
+'A:C Ratio': 'A:C अनुपात'
+'ATL (Fatigue)': 'ATL (थकान)'
+'Active days': 'सक्रिय दिन'
+Activities: गतिविधियाँ
+Activity: गतिविधि
+'Activity count': 'गतिविधि गणना'
+'Activity heatmap': 'गतिविधि हीटमैप'
+'Activity intensity': 'गतिविधि की तीव्रता'
+'Activity locations': 'गतिविधियों के स्थान'
+'Activity start times': 'गतिविधि प्रारंभ समय'
+'Acute Training Load (Fatigue) - 7-day exponentially weighted average of your daily training load. Represents short-term fatigue.': 'एक्यूट ट्रेनिंग लोड (थकान) - आपके रोज़ के ट्रेनिंग लोड का 7-दिन का घातीय रूप से भारित औसत। यह अल्पकालिक थकान दिखाता है।'
+'Acute:Chronic Ratio - Ratio of ATL to CTL. Indicates injury risk.': 'एक्यूट:क्रोनिक अनुपात - ATL से CTL का अनुपात। आघात के खतरे को इंगित करता है।'
+'Adaptive & Inclusive Sports': 'अनुकूली एवं समावेशी खेल'
+Advanced: उन्नत
+Afternoon: अपराह्न 
+All: सभी
+'All time': 'सम्पूर्ण समय'
+'Alpine Ski': 'अल्पाइन स्की'
 Apr: Apr
 'Ask Mark something...': 'Ask Mark something...'
 Aug: Aug
