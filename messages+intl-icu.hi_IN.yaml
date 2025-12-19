@@ -45,64 +45,64 @@ Cadence: कैडन्स
 Calories: कैलोरी
 'Calories burned': 'जलाई गई कैलोरी'
 Canoeing: कैनोइंग
-'Carbon saved': 'बचाया गया कार्बन'
+'Carbon saved': 'कार्बन की बचत'
 'Challenge consistency': 'चुनौती की स्थिरता'
-Challenges: चैलेंज
+Challenges: चुनौती
 'Chronic Training Load (Fitness) - 42-day exponentially weighted average of your daily training load. Represents long-term training adaptation.': 'क्रॉनिक ट्रेनिंग लोड (फिटनेस) - आपके दैनिक ट्रेनिंग लोड का 42-दिन का घातीय रूप से भारित औसत। दीर्घकालिक प्रशिक्षण अनुकूलन को दर्शाता है।'
 'Close modal': 'मोडल बंद करें'
-'Collapse sidebar': 'साइडबार संक्षेप करें'
-Commutes: Commutes
+'Collapse sidebar': 'साइडबार संक्षिप्त करें'
+Commutes: आवागमन
 'Commutes only': 'केवल आवागमन'
-Compare: Compare
+Compare: तुलना
 'Compare to': 'की तुलना करें'
-'Congrats! You achieved personal bests during this activity.': 'बधाई! इस गतिविधि के दौरान आपने व्यक्तिगत सर्वश्रेष्ठ हासिल किए।'
-Crossfit: Crossfit
+'Congrats! You achieved personal bests during this activity.': 'बधाई हो! इस गतिविधि के दौरान आपने व्यक्तिगत सर्वश्रेष्ठ प्रदर्शन हासिल किए।'
+Crossfit: क्रॉसफिट
 'Custom gear disabled': 'कस्टम गियर अक्षम है'
-Cycling: Cycling
+Cycling: साइकलिंग
 'Daily TRIMP': 'दैनिक TRIMP'
 'Daily activities': 'दैनिक गतिविधियाँ'
-Dashboard: Dashboard
-Date: Date
-'Days needed': 'आवश्यक दिन'
+Dashboard: डैशबोर्ड 
+Date: दिनांक
+'Days needed': 'अपेक्षित दिन'
 'Daytime stats': 'दिन के समय के आँकड़े'
-Dec: Dec
+Dec: दिसम्बर
 'Detailed instructions are available in the documentation on': 'विस्तृत निर्देश दस्तावेज़ में उपलब्ध हैं'
-Details: Details
-Device: Device
-Distance: Distance
-'Distance breakdown': 'दूरी का विवरण'
-'Distance in {unit}': '{unit} में दूरी'
-'Distance over time per gear': 'गियर के अनुसार समयानुसार दूरी'
+Details: विवरण
+Device: उपकरण
+Distance:  दूरी
+'Distance breakdown': 'दूरी का विश्लेषण'
+'Distance in {unit}': '{इकाई} में दूरी'
+'Distance over time per gear': 'प्रति गियर समयानुसार दूरी'
 'Distance per month per gear': 'प्रति गियर प्रति माह दूरी'
-Distribution: Distribution
+Distribution: वितरण
 'E-Bike Rides': 'ई-बाइक सवारियाँ'
 'E-Mountain Bike Rides': 'ई-माउंटेन बाइक सवारियाँ'
-Eddington: Eddington
-Elev: Elev
-Elevation: Elevation
-'Elevation in {unit}': '{unit} में ऊँचाई'
-Elliptical: Elliptical
-Evening: Evening
-'Excludes commutes': 'आवागमन को शामिल नहीं करता'
+Eddington: एडिङटन
+Elev: ऊँचाई
+Elevation: ऊँचाई
+'Elevation in {unit}': '{इकाई} में ऊँचाई'
+Elliptical: इलिप्टिकल
+Evening: शाम
+'Excludes commutes': 'आवागमन शामिल नहीं'
 'FTP history': 'FTP इतिहास'
 'Fastest times': 'सबसे तेज समय'
 'Fatigued – productive heavy-training range': 'थके हुए – उत्पादक भारी-प्रशिक्षण सीमा'
-Favourite: Favourite
-Feb: Feb
+Favourite: पसंदीदा
+Feb: फ़रवरी
 'Filter on KOM segments': 'KOM सेगमेंट पर फ़िल्टर करें'
 'Filter on country': 'देश पर फ़िल्टर करें'
 'Filter on device': 'उपकरण पर फ़िल्टर करें'
 'Filter on gear': 'गियर पर फ़िल्टर करें'
 'Filter on sport type': 'खेल प्रकार पर फ़िल्टर करें'
 'Filter on starred segments': 'स्टार किए गए सेगमेंट पर फ़िल्टर करें'
-Fitness: Fitness
-'For example, an Eddington number of 70 would imply that a cyclist has cycled at least 70 km or miles in a day on at least 70 occasions. Achieving a high Eddington number is difficult, since moving from, say, 70 to 75 will (probably) require more than five new long-distance workouts, since any workout shorter than 75 km or miles will no longer be included in the reckoning.': 'उदाहरण के लिए, एक Eddington संख्या 70 का अर्थ होगा कि किसी साइकिलिस्ट ने कम से कम 70 किमी/मील की दूरी कम से कम 70 अवसरों पर चलाई है। उच्च Eddington संख्या प्राप्त करना कठिन है, क्योंकि उदाहरण के लिए 70 से 75 तक पहुँचने के लिए (संभवतः) पाँच से अधिक नए लंबी दूरी के वर्कआउट की आवश्यकता होगी, क्योंकि 75 किमी/मील से कम कोई भी वर्कआउट अब गणना में शामिल नहीं होगा।'
-'Form (TSB)': 'Form (TSB)'
+Fitness: फ़िटनेस
+'For example, an Eddington number of 70 would imply that a cyclist has cycled at least 70 km or miles in a day on at least 70 occasions. Achieving a high Eddington number is difficult, since moving from, say, 70 to 75 will (probably) require more than five new long-distance workouts, since any workout shorter than 75 km or miles will no longer be included in the reckoning.': 'उदाहरण स्वरूप, एडिङटन संख्या 70 का अर्थ होगा कि किसी साइकिलिस्ट ने कम से कम 70 किमी/मील की दूरी कम से कम 70 अवसरों पर पूरी की है। उच्च एडडिङटन संख्या प्राप्त करना कठिन है, क्योंकि उदाहरण के लिए 70 से 75 तक पहुँचने के लिए (संभवतः) पाँच से अधिक नई लंबी दूरी के वर्कआउट की आवश्यकता होगी, क्योंकि 75 किमी/मील से कम कोई भी वर्कआउट अब गणना में शामिल नहीं होगा।'
+'Form (TSB)': 'फ़ॉर्म (TSB)'
 'Fresh – reduced training load': 'ताज़ा – घटा हुआ प्रशिक्षण लोड'
-Fri: Fri
-Friday: Friday
-From: From
-Gear: Gear
+Fri: शुक्रवार
+Friday: शुक्रवार
+From: से
+Gear: गियर
 'Gear "{gearId}" is referenced in your maintenance config file, but was not imported from Strava. Please check that the gear exists and is correctly synced.': 'गियर "{gearId}" आपके रख-रखाव कॉन्फ़िग फ़ाइल में संदर्भित है, लेकिन Strava से आयातित नहीं हुआ था। कृपया जांचें कि गियर मौजूद है और सही तरीके से सिंक हुआ है।'
 'Gear details': 'गियर विवरण'
 'Gear maintenance': 'गियर रख-रखाव'
